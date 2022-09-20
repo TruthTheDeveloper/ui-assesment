@@ -2,7 +2,7 @@ import React from "react";
 import ValueCard from "../../components/ValueCard";
 import Rectangle1 from "../../assets/Rectangle-3.svg";
 import Rectangle2 from "../../assets/Rectangle-4.svg";
-import Rectangle3 from "../../assets/image-5.svg";
+import Rectangle3 from "../../assets/image5.svg";
 
 const Values = () => {
   const HeadText1 = "We are commited.";
