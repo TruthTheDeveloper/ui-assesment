@@ -1,4 +1,6 @@
 import React from "react";
+
+//Images
 import Logo2 from "../../../assets/logoImage2.svg";
 
 
