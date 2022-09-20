@@ -3,7 +3,6 @@ import React from "react";
 //Images
 import Logo2 from "../../../assets/logoImage2.svg";
 
-
 const Footer = () => {
   return (
     <section id="footer" className="footer__container">
