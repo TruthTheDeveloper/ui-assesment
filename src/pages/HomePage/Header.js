@@ -50,10 +50,10 @@ const Header = () => {
       <section id="header__pictures">
         <div className="mosiac__pictures">
           <div className="topleft__mosiac-picture">
-            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle1.svg?alt=media&token=beead7d9-7d5e-4804-9639-8d4dc961b3fb'} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle%201270.png?alt=media&token=bc467910-a60b-4b25-9799-77c44e4429e7'} />
           </div>
           <div className="center__mosiac-picture">
-            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle2.svg?alt=media&token=2087ef2e-d0c1-497c-bd2c-d6aa796d7944'} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle%201271.png?alt=media&token=a58278ee-fe6e-4b56-8c2a-2c7309df4211'} />
           </div>
           <div className="topright__mosiac-picture">
             <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle3.svg?alt=media&token=910e625d-425c-4d61-aeca-541efe95fe20'} />
@@ -62,7 +62,7 @@ const Header = () => {
             <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle4.svg?alt=media&token=9855105a-9f7a-4ad3-917b-e0ea2ee0767b'} />
           </div>
           <div className="bottomright__mosiac-picture">
-            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle5.svg?alt=media&token=5ce88147-6718-4b42-9be8-f49e8909f771'} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle%201274.png?alt=media&token=43c76242-4cca-4d8e-8dab-8a0440a55d55'} />
           </div>
         </div>
       </section>

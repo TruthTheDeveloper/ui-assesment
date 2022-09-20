@@ -12,6 +12,7 @@ const ValueCard = ({ image, text, headText }) => {
             objectFit: "cover",
             borderRadius: "24px",
           }}
+          loading="lazy"
         />
       </div>
       <div className="card__text">

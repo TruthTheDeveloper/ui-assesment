@@ -10,6 +10,7 @@ const PicCard = ({ image }) => {
         objectFit: "cover",
         borderRadius: "24px",
       }}
+      loading="lazy"
     />
   );
 };
