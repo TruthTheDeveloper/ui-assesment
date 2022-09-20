@@ -6,12 +6,11 @@
   box-sizing: border-box;
 }
 
-li{
+li {
   list-style: none;
 }
 
-
 html {
-    font-size: 100%;
-    font-family: 'Manrope', sans-serif;
-  }
+  font-size: 100%;
+  font-family: "Manrope", sans-serif;
+}
