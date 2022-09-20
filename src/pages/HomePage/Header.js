@@ -1,7 +1,7 @@
 import React from "react";
 
 //Images
-import logo from "../../images/logo.svg";
+import logo from "../../images/logoImage.svg";
 import RectangleImage1 from "../../images/Rectangle-1.svg";
 import RectangleImage2 from "../../images/Rectangle-2.svg";
 import RectangleImage3 from "../../images/Rectangle-3.svg";
