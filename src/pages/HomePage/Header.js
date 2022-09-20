@@ -62,7 +62,7 @@ const Header = () => {
             <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle4.svg?alt=media&token=9855105a-9f7a-4ad3-917b-e0ea2ee0767b'} />
           </div>
           <div className="bottomright__mosiac-picture">
-            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle%201274.png?alt=media&token=43c76242-4cca-4d8e-8dab-8a0440a55d55'} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle%201274%20(1).jpg?alt=media&token=b2a178c4-613e-42a6-8ac9-68ba747577c3'} />
           </div>
         </div>
       </section>
