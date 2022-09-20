@@ -1,10 +1,7 @@
 import React from "react";
 
-//Images
 import ValueCard from "../../components/ValueCard";
-import Rectangle1 from "../../../assets/Rectangle3.svg";
-import Rectangle2 from "../../../assets/Rectangle4.svg";
-import Rectangle3 from "../../../assets/picture5.svg";
+
 
 const Values = () => {
   const HeadText1 = "We are commited.";
@@ -25,9 +22,9 @@ const Values = () => {
         </p>
       </div>
 
-      <ValueCard image={Rectangle1} text={TEXT} headText={HeadText1} />
-      <ValueCard image={Rectangle2} text={TEXT} headText={HeadText2} />
-      <ValueCard image={Rectangle3} text={TEXT} headText={HeadText3} />
+      <ValueCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle3.svg?alt=media&token=910e625d-425c-4d61-aeca-541efe95fe20'} text={TEXT} headText={HeadText1} />
+      <ValueCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle4.svg?alt=media&token=9855105a-9f7a-4ad3-917b-e0ea2ee0767b'} text={TEXT} headText={HeadText2} />
+      <ValueCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/picture5.svg?alt=media&token=2354aef9-7a01-475a-8aca-e50b8fdaad00'} text={TEXT} headText={HeadText3} />
     </section>
   );
 };

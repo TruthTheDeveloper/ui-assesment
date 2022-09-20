@@ -1,8 +1,6 @@
 import React from "react";
 import PicCard from "../../components/PicCard";
-import Image1 from "../../../assets/picture1.svg";
-import Image2 from "../../../assets/picture2.svg";
-import Image3 from "../../../assets/picture.svg";
+
 
 const Team = () => {
   return (
@@ -19,21 +17,21 @@ const Team = () => {
 
       <div className="team__picture-wrapper">
         <div className="team__picture">
-          <PicCard image={Image3} />
+          <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/picture.svg?alt=media&token=13eb245e-4103-4e7c-afbc-3265394429db'} />
           <div className="team__picture-title">
             <p className="team__name">Michael Scott</p>
             <p className="team__title">General Manager</p>
           </div>
         </div>
         <div className="team__picture">
-          <PicCard image={Image1} />
+          <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/picture1.svg?alt=media&token=55cb2e76-a2f0-4ba6-b49f-8d3306083d9a'} />
           <div className="team__picture-title">
             <p className="team__name">Dwight Schrute</p>
             <p className="team__title">General Manager</p>
           </div>
         </div>
         <div className="team__picture">
-          <PicCard image={Image2} />
+          <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/picture2.svg?alt=media&token=538dc3bb-9f95-4bd6-9281-89986e4054ab'} />
           <div className="team__picture-title">
             <p className="team__name">Pam Beetsley</p>
             <p className="team__title">General Manager</p>
@@ -43,5 +41,7 @@ const Team = () => {
     </section>
   );
 };
+
+
 
 export default Team;

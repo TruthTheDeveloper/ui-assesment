@@ -1,14 +1,13 @@
 import React from "react";
 
-//Images
-import Logo2 from "../../../assets/logoImage2.svg";
+
 
 const Footer = () => {
   return (
     <section id="footer" className="footer__container">
       <div className="footer__content-logo">
         <div>
-          <img src={Logo2} />
+          <img src={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/logoImage2.svg?alt=media&token=d2a486ac-b201-4fce-8385-797bb18be2a6'} />
         </div>
         <p className="footer__content-logo-text">
           Social media validation business model canvas graphical user interface

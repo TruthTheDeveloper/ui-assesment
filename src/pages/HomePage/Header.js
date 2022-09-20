@@ -1,12 +1,6 @@
 import React from "react";
 
-//Images
-import logo from "../../../assets/logoImage.svg";
-import RectangleImage1 from "../../../assets/Rectangle1.svg";
-import RectangleImage2 from "../../../assets/Rectangle2.svg";
-import RectangleImage3 from "../../../assets/Rectangle3.svg";
-import RectangleImage4 from "../../../assets/Rectangle4.svg";
-import RectangleImage5 from "../../../assets/Rectangle5.svg";
+
 
 //CSS
 import "../HomePage.css";
@@ -20,7 +14,7 @@ const Header = () => {
       <section id="Navbar" className="navbar__style">
         <div>
           <img
-            src={logo}
+            src={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/logoImage.svg?alt=media&token=06dd11fc-597a-42dd-8d21-29f672b7ad78'}
             style={{ width: "6rem", padding: ".5rem", marginTop: ".2rem" }}
           />
         </div>
@@ -56,19 +50,19 @@ const Header = () => {
       <section id="header__pictures">
         <div className="mosiac__pictures">
           <div className="topleft__mosiac-picture">
-            <PicCard image={RectangleImage1} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle1.svg?alt=media&token=beead7d9-7d5e-4804-9639-8d4dc961b3fb'} />
           </div>
           <div className="center__mosiac-picture">
-            <PicCard image={RectangleImage2} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle2.svg?alt=media&token=2087ef2e-d0c1-497c-bd2c-d6aa796d7944'} />
           </div>
           <div className="topright__mosiac-picture">
-            <PicCard image={RectangleImage3} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle3.svg?alt=media&token=910e625d-425c-4d61-aeca-541efe95fe20'} />
           </div>
           <div className="bottomleft__mosiac-picture">
-            <PicCard image={RectangleImage4} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle4.svg?alt=media&token=9855105a-9f7a-4ad3-917b-e0ea2ee0767b'} />
           </div>
           <div className="bottomright__mosiac-picture">
-            <PicCard image={RectangleImage5} />
+            <PicCard image={'https://firebasestorage.googleapis.com/v0/b/naruto-208e5.appspot.com/o/Rectangle5.svg?alt=media&token=5ce88147-6718-4b42-9be8-f49e8909f771'} />
           </div>
         </div>
       </section>
