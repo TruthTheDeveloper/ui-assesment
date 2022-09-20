@@ -268,35 +268,6 @@
   width: 50rem;
 }
 
-.card__container {
-  display: flex;
-  justify-content: center;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
-.card__image {
-  width: 10rem;
-  height: 10rem;
-}
-
-.card__text {
-  width: 40rem;
-  margin-left: 3rem;
-  color: #f1f1f1;
-  margin-top: 1.3rem;
-}
-
-.card__text-head {
-  font-size: 25px;
-  margin-bottom: 0.8rem;
-}
-
-.card__text-content {
-  font-size: 18px;
-  width:35rem;
-}
-
 .contact__us-container {
   margin: 8rem;
   background-color: #0a2640;

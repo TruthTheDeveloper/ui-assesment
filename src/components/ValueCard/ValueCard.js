@@ -1,4 +1,5 @@
 import React from "react";
+import './ValueCard.css'
 
 const ValueCard = ({ image, text, headText }) => {
   return (

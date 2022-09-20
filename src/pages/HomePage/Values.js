@@ -1,6 +1,6 @@
 import React from "react";
 
-import ValueCard from "../../components/ValueCard";
+import ValueCard from "../../components/ValueCard/ValueCard";
 
 
 const Values = () => {
