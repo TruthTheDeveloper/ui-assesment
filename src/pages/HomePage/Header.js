@@ -1,12 +1,12 @@
 import React from "react";
 
 //Images
-import logo from "../../images/logoImage.svg";
-import RectangleImage1 from "../../images/Rectangle1.svg";
-import RectangleImage2 from "../../images/Rectangle2.svg";
-import RectangleImage3 from "../../images/Rectangle3.svg";
-import RectangleImage4 from "../../images/Rectangle4.svg";
-import RectangleImage5 from "../../images/Rectangle5.svg";
+import logo from "../../../images/logoImage.svg";
+import RectangleImage1 from "../../../images/Rectangle1.svg";
+import RectangleImage2 from "../../../images/Rectangle2.svg";
+import RectangleImage3 from "../../../images/Rectangle3.svg";
+import RectangleImage4 from "../../../images/Rectangle4.svg";
+import RectangleImage5 from "../../../images/Rectangle5.svg";
 
 //CSS
 import "../HomePage.css";
