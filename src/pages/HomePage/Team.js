@@ -1,8 +1,8 @@
 import React from "react";
 import PicCard from "../../components/PicCard";
-import Image1 from "../../assets/image1.svg";
-import Image2 from "../../assets/image2.svg";
-import Image3 from "../../assets/image.svg";
+import Image1 from "../../images/image1.svg";
+import Image2 from "../../images/image2.svg";
+import Image3 from "../../images/image.svg";
 
 const Team = () => {
   return (
