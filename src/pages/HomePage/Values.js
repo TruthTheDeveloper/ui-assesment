@@ -13,7 +13,7 @@ const Values = () => {
   return (
     <section id="values" className="value__container">
       <div className="value__wrapper">
-        <p className="value__title">Our Values</p>
+        <p className="value__title">Our values</p>
         <p className="value__container-header">Things in We believe</p>
         <p className="value__container-content">
           Conversion angel investor entrepreneur first mover advantage.

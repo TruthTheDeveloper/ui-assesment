@@ -4,9 +4,9 @@ const Story = () => {
   return (
     <section id="story">
       <div className="story__container">
-        <p className="story__title">Our Story</p>
+        <p className="story__title">Our story</p>
         <p className="story__container-header">
-          HandShake infographic mass market crowdfunding iteration
+          Handshake infographic mass market crowdfunding iteration.
         </p>
         <p className="story__container-content">
           Conversion angel investor entrepreneur first mover advantage.

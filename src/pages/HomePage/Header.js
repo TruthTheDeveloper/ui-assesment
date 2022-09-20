@@ -34,6 +34,7 @@ const Header = () => {
 
       <section id="header__content">
         <div className="header__content-text">
+          <p className="header-text-about">About</p>
           <p className="header__text-1">
             We love to make great <br /> things, things that matter.
           </p>

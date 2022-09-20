@@ -7,7 +7,7 @@ const InfoGraphic = () => {
         <div className="infograhic__header">
           <p className="infograhic__header-text-1">Our numbers</p>
           <p className="infograhic__header-text-2">
-            HandShake Infographic mass market <br /> crowdfunding iteration
+            Handshake Infographic mass market <br /> crowdfunding iteration.
           </p>
         </div>
         <div className="infographic__content">

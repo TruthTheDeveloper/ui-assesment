@@ -6,7 +6,7 @@ const Team = () => {
   return (
     <section id="team">
       <div className="team__container">
-        <p className="team__title">Our Team</p>
+        <p className="team__title">Our team</p>
         <p className="team__container-header">The leaderShip team</p>
         <p className="team__container-content">
           Conversion angel investor entrepreneur first mover advantage.

@@ -8,7 +8,7 @@
   background-color: #0a2640;
   padding-left: 2.5rem;
   padding-right: 2.5rem;
-  padding-top: 0.5rem;
+  padding-top: 2rem;
   padding-bottom: 0.5rem;
 }
 .nav__link {
@@ -32,6 +32,7 @@
   background-color: white;
   border-radius: 1rem;
   cursor: pointer;
+  border: white;
 }
 
 /* header content style */
@@ -47,6 +48,11 @@
 
 .header__content-text {
   text-align: center;
+}
+
+.header-text-about{
+  text-align: center;
+  color: #f1f1f1;
 }
 
 .header__text-1 {
@@ -123,6 +129,8 @@
 .story__container-header {
   font-size: 40px;
   line-height: 55px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .story__container-content {
@@ -190,29 +198,35 @@
 .team__container-header {
   font-size: 40px;
   line-height: 72px;
+  padding-bottom: 1.7rem;
 }
 
 .team__container-content {
   font-size: 20px;
   line-height: 32px;
   color: #777777;
+  
 }
 
 .team__picture-wrapper {
   display: flex;
-  justify-content: space-around;
+  width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+  /* justify-content: space-around; */
 }
 
 .team__picture {
   height: 22rem;
+  margin: 3rem;
 }
 .team__picture-title {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .team__name {
   font-size: 20px;
-  line-height: 38px;
+  line-height: 45px;
 }
 
 .team__title {
@@ -244,7 +258,7 @@
 
 .value__container-header {
   font-size: 35px;
-  line-height: 72px;
+  line-height: 90px;
 }
 
 .value__container-content {
@@ -270,6 +284,7 @@
   width: 40rem;
   margin-left: 3rem;
   color: #f1f1f1;
+  margin-top: 1.3rem;
 }
 
 .card__text-head {
@@ -279,6 +294,7 @@
 
 .card__text-content {
   font-size: 18px;
+  width:35rem;
 }
 
 .contact__us-container {
@@ -309,13 +325,14 @@
 }
 
 .contact__wrapper-input-button {
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
   margin-left: 1rem;
   border-radius: 240px;
   background: #65e4a3;
   cursor: pointer;
   font-size: 1.2rem;
+  border: white;
 }
 
 .footer__container {
@@ -342,8 +359,11 @@
 
 .footer__span {
   font-size: 13px;
-  padding: 4px;
-  font-weight: 70px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-weight: 700;
   /* width: 80px; */
 
   height: 30px;
